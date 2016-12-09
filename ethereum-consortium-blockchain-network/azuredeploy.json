@@ -173,7 +173,7 @@
     "adminSitePort": 3000,
     "sshPort": 22,
     "sshNATFrontEndStartingPort": 3000,
-    "gethRPCPort": 8545,
+    "gethRPCPort": 8282,
     "gethIPCPort": 30303,
     "loadBalancerName": "[concat(variables('namingInfix'), '-LB')]",
     "loadBalancerBackendAddressPoolName": "LoadBalancerBackend1",
